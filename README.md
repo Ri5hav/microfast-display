@@ -1,73 +1,81 @@
-# Welcome to your Lovable project
+Perfect 👍 here is your **clean final README** with **all Lovable references removed** and fully professional:
 
-## Project info
+---
 
-**URL**: https://lovable.dev/projects/a6622b9b-43c1-4335-b439-c2d32b8141bc
+# 🚀 MicroFast Tech – Business Website
 
-## How can I edit this code?
+## 📌 About the Project
 
-There are several ways of editing your application.
+This project is a professional business website developed for **MicroFast Tech**, a company providing advanced IT solutions and surveillance services.
 
-**Use Lovable**
+MicroFast delivers complete turnkey systems — from consultation and installation to long-term technical support.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/a6622b9b-43c1-4335-b439-c2d32b8141bc) and start prompting.
+### 🛠 Services Offered
 
-Changes made via Lovable will be committed automatically to this repo.
+* **Surveillance Systems**
+* **PBX Solutions**
+* **Structured Cabling**
+* **IT Systems & Infrastructure**
 
-**Use your preferred IDE**
+> **Secure your business, connect every device, and simplify communications with fully integrated solutions delivered and supported by MicroFast.**
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+---
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+## 🧑‍💻 Tech Stack
 
-Follow these steps:
+This project is built using:
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
+* ⚡ **Vite** – Development & build tool
+* ⚛️ **React** – Frontend library
+* 🔷 **TypeScript** – Type-safe JavaScript
+* 🎨 **CSS** – Styling
+* 🗄️ **Supabase** – Backend & database
+
+---
+
+# ⚙️ How to Run the Project Locally
+
+## 📌 Prerequisites
+
+* Node.js
+* npm
+
+(Recommended: Install Node using nvm)
+
+---
+
+## 🔽 Setup Instructions
+
+```bash
+# Step 1: Clone the repository
 git clone <YOUR_GIT_URL>
 
-# Step 2: Navigate to the project directory.
+# Step 2: Navigate into the project folder
 cd <YOUR_PROJECT_NAME>
 
-# Step 3: Install the necessary dependencies.
-npm i
+# Step 3: Install dependencies
+npm install
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# Step 4: Start the development server
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
+The development server will start with auto-reload and provide a local preview link.
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+---
 
-**Use GitHub Codespaces**
+# 🚀 Production Build
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+To create an optimized production build:
 
-## What technologies are used for this project?
+```bash
+npm run build
+```
 
-This project is built with:
+To preview the production build locally:
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+```bash
+npm run preview
+```
 
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/a6622b9b-43c1-4335-b439-c2d32b8141bc) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+---
